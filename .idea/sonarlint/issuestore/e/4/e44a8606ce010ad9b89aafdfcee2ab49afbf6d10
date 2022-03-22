@@ -1,0 +1,18 @@
+
+[
+java:S1659"EDeclare "potencia" and all following declarations on a separate line.(¹·©Ñ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èğ´ºÿÿÿÿÿ8ã“Î–û/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø—ËÎûÿÿÿÿ8ã“Î–û/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ôÆîˆ8ä“Î–û/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“ÒÊ™8ä“Î–û/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¾“8ä“Î–û/
+j
+java:S1226"HIntroduce a new variable instead of reusing the parameter "coeficiente".(Éë÷şÿÿÿÿ8å“Î–û/
+b
+java:S1226"EIntroduce a new variable instead of reusing the parameter "potencia".(½†¸ş8å“Î–û/
+a
+java:S1226"?Introduce a new variable instead of reusing the parameter "xc".(ˆ¤øùÿÿÿÿ8å“Î–û/
+\
+java:S1226"?Introduce a new variable instead of reusing the parameter "xp".(²èÊ©8å“Î–û/
+_
+java:S1226"CIntroduce a new variable instead of reusing the parameter "numero".(Ù–Û08å“Î–û/
